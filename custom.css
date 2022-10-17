@@ -271,3 +271,17 @@ a:hover {
   font-size: 12px;
 }
 /* FOOTER AKHIR */
+
+/* PENERIMA UPAH AWAL */
+.badge-list {
+  background-color: #226da8;
+  color: white;
+  border-radius: 10px;
+  padding: 3px 8px;
+}
+
+.panel-body {
+  padding: 15px;
+  padding-left: 35px;
+}
+/* PENERIMA UPAH AKHIR */
