@@ -284,4 +284,10 @@ a:hover {
   padding: 15px;
   padding-left: 35px;
 }
+
+.collapse-menu {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
 /* PENERIMA UPAH AKHIR */
