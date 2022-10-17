@@ -3,6 +3,30 @@ body {
   font-size: 1rem;
 }
 
+/* NAVBAR AWAL */
+.hover-btn {
+  background-color: #226da8;
+  color: #e2edff;
+}
+
+.hover-btn:hover {
+  opacity: 75%;
+  background-color: white;
+  color: black;
+}
+
+.btn-navbar {
+  background-color: white;
+  color: black;
+  border-radius: 1rem;
+}
+
+.btn-navbar:hover {
+  background-color: #dbdbdb;
+  border-radius: 1rem;
+}
+/* NAVBAR AKHIR */
+
 /* CAROUSEL AWAL */
 .web-carousel {
   display: block;
@@ -140,36 +164,12 @@ body {
 }
 /* CAROUSEL AKHIR */
 
-/* JUMBOTRON */
+/* JUMBOTRON AWAL */
 .jumbotron {
   padding-top: 6rem;
   background-color: white;
 }
 /* JUMBOTRON AKHIR */
-
-/* NAVBAR AWAL */
-.hover-btn {
-  background-color: #226da8;
-  color: #e2edff;
-}
-
-.hover-btn:hover {
-  opacity: 75%;
-  background-color: white;
-  color: black;
-}
-
-.btn-navbar {
-  background-color: white;
-  color: black;
-  border-radius: 1rem;
-}
-
-.btn-navbar:hover {
-  background-color: #dbdbdb;
-  border-radius: 1rem;
-}
-/* NAVBAR AKHIR */
 
 /* PROGRAM AWAL */
 .jaminan-list {
