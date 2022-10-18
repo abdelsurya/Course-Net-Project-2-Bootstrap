@@ -253,11 +253,6 @@ body {
   margin-top: 10px;
 }
 
-li {
-  color: #d2da34;
-  list-style-type: none;
-}
-
 li a {
   color: white;
   text-decoration: none;
@@ -290,4 +285,10 @@ a:hover {
   color: gray;
   font-weight: bold;
 }
+
+.hover-manfaat {
+  text-decoration: none;
+  color: gray;
+}
+
 /* PENERIMA UPAH AKHIR */
