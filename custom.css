@@ -291,4 +291,32 @@ a:hover {
   color: gray;
 }
 
+.proslay-row {
+  margin: 27px 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+.prosedur-ket {
+  font-size: 13px;
+  height: 45px;
+  text-align: left;
+  display: table-cell;
+  padding: 0 5px;
+  margin: 0;
+  vertical-align: middle;
+  align-items: center;
+}
+
+.proslay-number {
+  margin-right: 4px;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.proslay-text {
+  text-align: start;
+  width: 350px;
+  padding-left: 7px;
+}
 /* PENERIMA UPAH AKHIR */
